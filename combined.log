@@ -1,0 +1,3 @@
+{"level":"error","message":"Division by zero is not allowed","service":"calculator-service"}
+{"level":"error","message":"n1 incorrectly defined","service":"calculator-service"}
+{"level":"error","message":"n1 incorrectly defined","service":"calculator-service"}
